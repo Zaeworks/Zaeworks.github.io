@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: 关于我
+subtitle: 关于这家伙的一点事情
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+扎易(Zae), 不知道还算不算游戏开发者. 比较喜欢挖坑.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+主要方向:
+- .NET( Core), WPF和微服务.
+- 独立游戏, 主要使用Godot引擎
 
-What else do you need?
+本命是河城荷取(にとり).
 
-### my history
+### 这个网站
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+看看能写多少东西吧, 如果能坚持下来就完善一下AboutMe.
